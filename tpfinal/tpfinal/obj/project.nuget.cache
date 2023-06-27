@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/A3iUP9Hv7YAxNALLvt+HqcXe/28AarJcAfCiRmcKVlFAAMhqwpweSCvhIKebDGQAOMzxBetZ51/7E8t8Aa2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Agustin\\Desktop\\tpfinal (2)\\tpfinal\\tpfinal\\tpfinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agustin\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
