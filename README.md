@@ -1,2 +1,2 @@
-# tpf-complejidad
-# Trabajo practico final de la materia complejidad temporal y estructura de datos
+# TRABAJO PRACTICO DE COMPLEJIDAD Y ESTRUCTURA DE DATOS
+# Se realizo con el fin de aprender la utilización de funciones recursivas utilizando arboles.
